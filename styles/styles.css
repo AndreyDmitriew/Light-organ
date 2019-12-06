@@ -6,5 +6,95 @@
 
 
 body {
-    background-color: pink;
+    background-color: lightgray;
 }
+
+.title {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lobster', cursive;
+  padding-top: 2%;
+  font-size: 60px;
+
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+  background-color: lightgoldenrodyellow;
+  padding: 5px;
+  border-radius: 5px;
+  max-width: 800px;
+  height: 500px;
+  font-family: "Tahoma";
+  margin: 0 auto;
+  margin-top: 2%;
+}
+
+.item {
+  background-color: lightpink;
+  border-radius: 6%;
+
+}
+
+.musicPlayer{
+  grid-column: 1/17;
+  border-radius: 1%;
+  background-color: lightsteelblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:3%;
+  font-family: 'Pacifico', cursive;
+}
+
+.addButton {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    color: #fff; 
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(230, 128, 115);
+    outline: none; 
+    padding: 10px;
+    margin: 10px;
+    border-radius: 3%;
+}
+
+
+#fieldSize {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  /* background-color: green; */
+  /* height: 40px; */
+  /* width: 40px; */
+  /* padding: 1px; */
+}
+
+
+#field5x5 {
+  background-color: lightsalmon;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  text-align: center;
+  
+  font-size: 10px;
+ }
+
+#field10x10 {
+  background-color: lightslategray;
+  height: 20px;
+  width: 20px;
+  grid-column: 2/3;
+  font-size: 10px;
+}
+
