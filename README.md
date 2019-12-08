@@ -6,6 +6,7 @@
     <img alt="Light-Organ-Task" src="https://i.ibb.co/y46RDXW/Light-Organ-Task.gif" width="544" height="306" />
  </a>
 </p>
+
 ![alt text](https://github.com/AndreyDmitriew/Task/blob/master/markdownImg/LightOrganTaskImg.jpg)
 
 ## Overview 
