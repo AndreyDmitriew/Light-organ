@@ -2,7 +2,7 @@
  ### Link on gh-pages: #
  <p align="center" >
 <p align="center" >
-   <a href="#">
+   <a href="https://andreydmitriew.github.io/Task/">
     <img alt="Light-Organ-Task" src="https://i.ibb.co/y46RDXW/Light-Organ-Task.gif" width="544" height="306" />
  </a>
 </p>
