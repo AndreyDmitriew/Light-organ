@@ -6,7 +6,7 @@
     <img alt="Light-Organ-Task" src="https://i.ibb.co/y46RDXW/Light-Organ-Task.gif" width="544" height="306" />
  </a>
 </p>
-![alt text](https:#)
+![alt text](https://github.com/AndreyDmitriew/Task/blob/master/markdownImg/LightOrganTaskImg.jpg)
 
 ## Overview 
  The task is to make a graphic visualizer for music. While your favorite MP3 player is playing, a grid of 16x9 squares is visible on the screen, the squares change color and brightness depending on the volume in different parts of the sound spectrum, each square is responsible for its part of the range.
