@@ -1,5 +1,5 @@
   ## Light organ task. 
- ### Link on gh-pages: https://andreydmitriew.github.io/Task/
+ ### Link on gh-pages: https://andreydmitriew.github.io/Light-organ/
  <p align="center" >
 <p align="center" >
    <a href="https://andreydmitriew.github.io/Task/">
